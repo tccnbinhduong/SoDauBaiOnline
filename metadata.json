@@ -1,0 +1,5 @@
+{
+  "name": "SoDauBaiDienTu",
+  "description": "Ứng dụng quản lý sổ đầu bài kỹ thuật số cho giáo viên, hỗ trợ ghi nhận tiết dạy, sĩ số, nhận xét và thống kê báo cáo tự động tích hợp AI.",
+  "requestFramePermissions": []
+}
